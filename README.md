@@ -1,22 +1,28 @@
-EduResult 🎓
+# EduResult 🎓
 
 EduResult is a Python-based desktop application designed to simplify student result management. It allows users to manage students, courses, academic results, and generate student result reports through a simple graphical interface.
 
-🚀 Features
-👨‍🎓 Manage student records
-📚 Manage courses
-📝 Add and manage results
-📊 View student results
-📈 Dashboard with total students, courses, and results
-💾 SQLite database integration
-🔐 Login and logout functionality
-🖥️ Simple Tkinter-based GUI
-🛠️ Technologies
-Python
-Tkinter
-SQLite
-Pillow (PIL)
-📂 Project Structure
+## ✨ Features
+
+- 👨‍🎓 Manage student records
+- 📚 Manage courses
+- 📝 Add and manage results
+- 📊 View student results
+- 📈 Dashboard with total students, courses, and results
+- 💾 SQLite database integration
+- 🔐 Login and logout functionality
+- 🖥️ Simple Tkinter-based GUI
+
+## 🛠️ Technologies Used
+
+- Python
+- Tkinter
+- SQLite
+- Pillow (PIL)
+
+## 📂 Project Structure
+
+```text
 EduResult/
 │
 ├── login.py
@@ -30,6 +36,7 @@ EduResult/
 └── images/
     ├── logo_p.png
     └── bg.png
+
 ▶️ How to Run
 1. Install Python
 
